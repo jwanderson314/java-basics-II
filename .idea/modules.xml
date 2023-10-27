@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/src/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Composition/Composition.iml" filepath="$PROJECT_DIR$/src/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/src/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basics-II.iml" filepath="$PROJECT_DIR$/.idea/java-basics-II.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
